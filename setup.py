@@ -1,4 +1,4 @@
-from time import gmtime, strftime, sleep
+from time import gmtime, strftime, sleep, time
 from threading import Timer
 import random
 
@@ -13,57 +13,60 @@ class Process:
 		self.log_file = open(log_file_path, 'w')
 		self.message_queue = []
 		self.timer = None
+		self.on = True
+		print("Machine %d initialized with %d operations per second" % (id, speed))
 
 	# THIS NEEDS TO BE DEBUGGED
-	# Originally, I jsust had the last line and instead of self.start it was calling self.handle_operation, but it wouldnt repeat the function...
+	# Originally, I just had the last line and instead of self.start it was calling self.handle_operation, but it wouldnt repeat the function so I dumped it in here and made it recursive
 	def start(self):
-		# Every 1/speed seconds, call handle_operation
-		if len(self.message_queue) == 0:
-			opcode = random.randint(1,7)
-			# Send to to one machine
-			if opcode == 1:
-				target_id = (self.id + 1) % 3
-				self.send_single_message(target_id)
-			# Send to the other machine
-			elif opcode == 2:
-				target_id = (self.id - 1) % 3
-				self.send_single_message(target_id)
-			# Send to both machines
-			elif opcode == 3:
-				target_1 = (self.id + 1) % 3
-				target_2 = (self.id - 1) % 3
-				self.send_multiple_messages(target_1, target_2)
-			# Internal event, update local clock
+		if self.on:
+			# Every 1/speed seconds, call handle_operation
+			if len(self.message_queue) == 0:
+				opcode = random.randint(1,7)
+				# Send to to one machine
+				if opcode == 1:
+					target_id = (self.id + 1) % 3
+					self.send_single_message(target_id)
+				# Send to the other machine
+				elif opcode == 2:
+					target_id = (self.id - 1) % 3
+					self.send_single_message(target_id)
+				# Send to both machines
+				elif opcode == 3:
+					target_1 = (self.id + 1) % 3
+					target_2 = (self.id - 1) % 3
+					self.send_multiple_messages(target_1, target_2)
+				# Internal event, update local clock
+				else:
+					self.internal_event()
 			else:
-				self.internal_event()
-		else:
-			message = self.message_queue.pop(0)
-			self.receive(message)
-		self.timer = Timer(1.0/self.speed, self.start).start()
+				message = self.message_queue.pop(0)
+				self.receive(message)
+			self.timer = Timer(1.0/self.speed, self.start).start()
 
 	# at a regular interval, generate a random number and execute
-	def handle_operation(self):	
-		if len(self.message_queue) == 0:
-			opcode = random.randint(1,7)
-			# Send to to one machine
-			if opcode == 1:
-				target_id = (self.id + 1) % 3
-				self.send_single_message(target_id)
-			# Send to the other machine
-			elif opcode == 2:
-				target_id = (self.id - 1) % 3
-				self.send_single_message(target_id)
-			# Send to both machines
-			elif opcode == 3:
-				target_1 = (self.id + 1) % 3
-				target_2 = (self.id - 1) % 3
-				self.send_multiple_messages(target_1, target_2)
-			# Internal event, update local clock
-			else:
-				self.internal_event()
-		else:
-			message = self.message_queue.pop(0)
-			self.receive(message)
+	# def handle_operation(self):	
+	# 	if len(self.message_queue) == 0:
+	# 		opcode = random.randint(1,7)
+	# 		# Send to to one machine
+	# 		if opcode == 1:
+	# 			target_id = (self.id + 1) % 3
+	# 			self.send_single_message(target_id)
+	# 		# Send to the other machine
+	# 		elif opcode == 2:
+	# 			target_id = (self.id - 1) % 3
+	# 			self.send_single_message(target_id)
+	# 		# Send to both machines
+	# 		elif opcode == 3:
+	# 			target_1 = (self.id + 1) % 3
+	# 			target_2 = (self.id - 1) % 3
+	# 			self.send_multiple_messages(target_1, target_2)
+	# 		# Internal event, update local clock
+	# 		else:
+	# 			self.internal_event()
+	# 	else:
+	# 		message = self.message_queue.pop(0)
+	# 		self.receive(message)
 
 	# Append a message to queue to buffer a received message
 	def append_to_message_queue(self, message):
@@ -94,14 +97,15 @@ class Process:
 
 	# Log the event, the system time, and the logical clock time in the log file
 	def log_event(self, event):
-		print("Machine Number %d | Logging event: %s | System Time %s | Logical Clock %d" % (self.id, event, strftime("%a, %d %b %Y %H:%M:%S +0000", gmtime()), self.logical_clock))
-		self.log_file.write("Logging event: %s | System Time %s | Logical Clock %d \n" % (event, strftime("%a, %d %b %Y %H:%M:%S +0000", gmtime()), self.logical_clock))
+		# print("Machine Number %d | Logging event: %s | System Time %s | Logical Clock %d" % (self.id, event, strftime("%a, %d %b %Y %H:%M:%S", gmtime()), self.logical_clock))
+		self.log_file.write("Logging event: %s | System Time %s | Logical Clock %d \n" % (event, time(), self.logical_clock))
 
 	def stop(self):
-		self.timer.cancel()
+		self.on = False
 
 
 if __name__== "__main__":
+	print("Starting to create machines")
 	machines = {}
 	machines[0] = Process(random.randint(1,7), 0, "log_0.log")
 	machines[1] = Process(random.randint(1,7), 1, "log_1.log")
@@ -116,6 +120,9 @@ if __name__== "__main__":
 		sleep(60)
 		
 	finally:
+		# Stop them from running
 		machines[0].stop()
 		machines[1].stop()
 		machines[2].stop()
+		print("1 minute has elapsed. Logs are generated in log_<id>.log")
+		print("To see plots, run 'python plots.py'")
