@@ -1,0 +1,280 @@
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:46 +0000 | Logical Clock 1 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:29:46 +0000 | Logical Clock 2 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:46 +0000 | Logical Clock 3 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:29:47 +0000 | Logical Clock 4 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:29:47 +0000 | Logical Clock 5 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:47 +0000 | Logical Clock 6 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:29:47 +0000 | Logical Clock 7 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:47 +0000 | Logical Clock 8 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:29:48 +0000 | Logical Clock 9 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:29:48 +0000 | Logical Clock 10 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:29:48 +0000 | Logical Clock 11 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:29:48 +0000 | Logical Clock 12 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:29:49 +0000 | Logical Clock 13 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:29:49 +0000 | Logical Clock 14 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:29:49 +0000 | Logical Clock 15 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:49 +0000 | Logical Clock 16 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:29:49 +0000 | Logical Clock 17 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:50 +0000 | Logical Clock 18 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:29:50 +0000 | Logical Clock 19 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:50 +0000 | Logical Clock 20 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:50 +0000 | Logical Clock 21 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:50 +0000 | Logical Clock 22 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:51 +0000 | Logical Clock 23 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:29:51 +0000 | Logical Clock 24 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:29:51 +0000 | Logical Clock 25 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:29:51 +0000 | Logical Clock 26 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:51 +0000 | Logical Clock 27 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:52 +0000 | Logical Clock 28 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:29:52 +0000 | Logical Clock 29 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:29:52 +0000 | Logical Clock 30 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:52 +0000 | Logical Clock 31 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:52 +0000 | Logical Clock 32 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:53 +0000 | Logical Clock 33 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:29:53 +0000 | Logical Clock 34 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:29:53 +0000 | Logical Clock 35 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:53 +0000 | Logical Clock 36 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:53 +0000 | Logical Clock 37 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:54 +0000 | Logical Clock 38 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:54 +0000 | Logical Clock 39 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:29:54 +0000 | Logical Clock 40 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:29:54 +0000 | Logical Clock 41 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:54 +0000 | Logical Clock 42 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:29:55 +0000 | Logical Clock 43 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:29:55 +0000 | Logical Clock 44 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:55 +0000 | Logical Clock 45 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:29:55 +0000 | Logical Clock 46 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:55 +0000 | Logical Clock 47 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:56 +0000 | Logical Clock 48 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:56 +0000 | Logical Clock 49 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:56 +0000 | Logical Clock 50 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:29:56 +0000 | Logical Clock 51 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:29:56 +0000 | Logical Clock 52 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:29:57 +0000 | Logical Clock 53 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:29:57 +0000 | Logical Clock 54 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:29:57 +0000 | Logical Clock 55 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:57 +0000 | Logical Clock 56 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:29:57 +0000 | Logical Clock 57 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:58 +0000 | Logical Clock 58 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:58 +0000 | Logical Clock 59 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:58 +0000 | Logical Clock 60 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:58 +0000 | Logical Clock 61 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:29:58 +0000 | Logical Clock 62 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:29:59 +0000 | Logical Clock 63 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:59 +0000 | Logical Clock 64 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:29:59 +0000 | Logical Clock 65 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:29:59 +0000 | Logical Clock 66 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:00 +0000 | Logical Clock 67 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:00 +0000 | Logical Clock 68 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:00 +0000 | Logical Clock 69 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:00 +0000 | Logical Clock 70 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:00 +0000 | Logical Clock 71 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:01 +0000 | Logical Clock 72 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:01 +0000 | Logical Clock 73 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:01 +0000 | Logical Clock 74 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:01 +0000 | Logical Clock 75 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:01 +0000 | Logical Clock 76 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:02 +0000 | Logical Clock 77 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:02 +0000 | Logical Clock 78 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:02 +0000 | Logical Clock 79 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:02 +0000 | Logical Clock 80 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:02 +0000 | Logical Clock 81 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:03 +0000 | Logical Clock 82 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:03 +0000 | Logical Clock 83 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:03 +0000 | Logical Clock 84 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:03 +0000 | Logical Clock 85 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:03 +0000 | Logical Clock 86 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:04 +0000 | Logical Clock 87 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:04 +0000 | Logical Clock 88 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:04 +0000 | Logical Clock 89 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:04 +0000 | Logical Clock 90 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:04 +0000 | Logical Clock 91 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:05 +0000 | Logical Clock 93 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:05 +0000 | Logical Clock 94 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:05 +0000 | Logical Clock 95 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:05 +0000 | Logical Clock 96 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:05 +0000 | Logical Clock 97 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:06 +0000 | Logical Clock 98 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:06 +0000 | Logical Clock 99 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:30:06 +0000 | Logical Clock 100 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:06 +0000 | Logical Clock 101 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:06 +0000 | Logical Clock 102 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:07 +0000 | Logical Clock 103 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:07 +0000 | Logical Clock 104 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:07 +0000 | Logical Clock 105 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:07 +0000 | Logical Clock 106 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:07 +0000 | Logical Clock 107 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:08 +0000 | Logical Clock 108 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:30:08 +0000 | Logical Clock 109 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:08 +0000 | Logical Clock 110 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:08 +0000 | Logical Clock 111 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:30:09 +0000 | Logical Clock 112 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:09 +0000 | Logical Clock 113 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:09 +0000 | Logical Clock 114 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:09 +0000 | Logical Clock 115 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:30:09 +0000 | Logical Clock 116 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:10 +0000 | Logical Clock 117 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:10 +0000 | Logical Clock 118 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:10 +0000 | Logical Clock 119 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:10 +0000 | Logical Clock 120 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:10 +0000 | Logical Clock 121 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:11 +0000 | Logical Clock 122 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:11 +0000 | Logical Clock 123 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:11 +0000 | Logical Clock 124 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:11 +0000 | Logical Clock 125 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:11 +0000 | Logical Clock 126 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:12 +0000 | Logical Clock 127 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:12 +0000 | Logical Clock 128 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:30:12 +0000 | Logical Clock 129 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:12 +0000 | Logical Clock 130 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:12 +0000 | Logical Clock 132 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:13 +0000 | Logical Clock 133 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:13 +0000 | Logical Clock 134 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:13 +0000 | Logical Clock 135 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:13 +0000 | Logical Clock 136 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:13 +0000 | Logical Clock 137 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:14 +0000 | Logical Clock 138 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:14 +0000 | Logical Clock 139 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:14 +0000 | Logical Clock 140 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:14 +0000 | Logical Clock 141 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:14 +0000 | Logical Clock 142 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:15 +0000 | Logical Clock 143 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:15 +0000 | Logical Clock 144 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:15 +0000 | Logical Clock 145 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:15 +0000 | Logical Clock 146 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:15 +0000 | Logical Clock 147 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:16 +0000 | Logical Clock 148 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:16 +0000 | Logical Clock 149 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:30:16 +0000 | Logical Clock 150 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:16 +0000 | Logical Clock 151 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:16 +0000 | Logical Clock 152 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:17 +0000 | Logical Clock 153 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:30:17 +0000 | Logical Clock 154 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:17 +0000 | Logical Clock 155 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:17 +0000 | Logical Clock 156 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:17 +0000 | Logical Clock 157 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:18 +0000 | Logical Clock 158 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:18 +0000 | Logical Clock 159 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:18 +0000 | Logical Clock 160 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:18 +0000 | Logical Clock 161 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:19 +0000 | Logical Clock 162 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:19 +0000 | Logical Clock 163 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:19 +0000 | Logical Clock 164 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:19 +0000 | Logical Clock 165 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:19 +0000 | Logical Clock 166 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:20 +0000 | Logical Clock 167 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:30:20 +0000 | Logical Clock 168 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:20 +0000 | Logical Clock 169 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:20 +0000 | Logical Clock 170 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:20 +0000 | Logical Clock 171 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:21 +0000 | Logical Clock 172 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:21 +0000 | Logical Clock 173 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:21 +0000 | Logical Clock 174 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:21 +0000 | Logical Clock 175 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:21 +0000 | Logical Clock 176 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:22 +0000 | Logical Clock 177 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:22 +0000 | Logical Clock 178 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:22 +0000 | Logical Clock 179 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:22 +0000 | Logical Clock 180 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:22 +0000 | Logical Clock 181 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:23 +0000 | Logical Clock 182 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:23 +0000 | Logical Clock 183 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:23 +0000 | Logical Clock 184 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:23 +0000 | Logical Clock 185 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:23 +0000 | Logical Clock 186 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:24 +0000 | Logical Clock 187 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:24 +0000 | Logical Clock 188 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:24 +0000 | Logical Clock 189 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:24 +0000 | Logical Clock 190 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:24 +0000 | Logical Clock 191 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:25 +0000 | Logical Clock 192 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:25 +0000 | Logical Clock 193 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:25 +0000 | Logical Clock 194 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:25 +0000 | Logical Clock 195 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:25 +0000 | Logical Clock 196 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:26 +0000 | Logical Clock 197 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:30:26 +0000 | Logical Clock 198 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:26 +0000 | Logical Clock 199 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:26 +0000 | Logical Clock 200 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:26 +0000 | Logical Clock 201 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:27 +0000 | Logical Clock 202 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:27 +0000 | Logical Clock 203 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:30:27 +0000 | Logical Clock 204 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:27 +0000 | Logical Clock 205 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:27 +0000 | Logical Clock 206 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:28 +0000 | Logical Clock 207 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:28 +0000 | Logical Clock 208 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:28 +0000 | Logical Clock 209 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:28 +0000 | Logical Clock 210 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:29 +0000 | Logical Clock 211 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:30:29 +0000 | Logical Clock 212 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:30:29 +0000 | Logical Clock 213 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:29 +0000 | Logical Clock 214 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:29 +0000 | Logical Clock 215 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:30 +0000 | Logical Clock 216 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:30 +0000 | Logical Clock 217 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:30 +0000 | Logical Clock 218 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:30 +0000 | Logical Clock 219 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:30 +0000 | Logical Clock 220 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:31 +0000 | Logical Clock 222 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:31 +0000 | Logical Clock 223 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:31 +0000 | Logical Clock 224 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:31 +0000 | Logical Clock 225 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:31 +0000 | Logical Clock 226 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:32 +0000 | Logical Clock 227 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:32 +0000 | Logical Clock 228 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:32 +0000 | Logical Clock 229 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:32 +0000 | Logical Clock 230 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:32 +0000 | Logical Clock 231 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:30:33 +0000 | Logical Clock 232 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:33 +0000 | Logical Clock 233 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:33 +0000 | Logical Clock 234 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:33 +0000 | Logical Clock 235 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:33 +0000 | Logical Clock 236 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:34 +0000 | Logical Clock 237 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:34 +0000 | Logical Clock 238 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:34 +0000 | Logical Clock 239 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:34 +0000 | Logical Clock 240 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:34 +0000 | Logical Clock 241 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:35 +0000 | Logical Clock 242 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:35 +0000 | Logical Clock 243 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:35 +0000 | Logical Clock 244 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:35 +0000 | Logical Clock 245 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:35 +0000 | Logical Clock 246 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:36 +0000 | Logical Clock 247 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:36 +0000 | Logical Clock 248 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:30:36 +0000 | Logical Clock 249 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:30:36 +0000 | Logical Clock 250 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:30:36 +0000 | Logical Clock 251 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:37 +0000 | Logical Clock 252 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:37 +0000 | Logical Clock 253 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:37 +0000 | Logical Clock 254 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:30:37 +0000 | Logical Clock 255 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:37 +0000 | Logical Clock 256 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:38 +0000 | Logical Clock 257 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:38 +0000 | Logical Clock 258 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:38 +0000 | Logical Clock 259 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:38 +0000 | Logical Clock 260 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:30:39 +0000 | Logical Clock 261 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:39 +0000 | Logical Clock 262 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:39 +0000 | Logical Clock 263 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:39 +0000 | Logical Clock 264 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:39 +0000 | Logical Clock 265 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:40 +0000 | Logical Clock 266 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:40 +0000 | Logical Clock 267 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:40 +0000 | Logical Clock 268 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:40 +0000 | Logical Clock 269 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:40 +0000 | Logical Clock 270 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:41 +0000 | Logical Clock 271 
+Logging event: Send to Machine 2 | System Time Sat, 03 Mar 2018 03:30:41 +0000 | Logical Clock 272 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:41 +0000 | Logical Clock 273 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:41 +0000 | Logical Clock 274 
+Logging event: Receive | System Time Sat, 03 Mar 2018 03:30:41 +0000 | Logical Clock 275 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:42 +0000 | Logical Clock 276 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:42 +0000 | Logical Clock 277 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:42 +0000 | Logical Clock 278 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:42 +0000 | Logical Clock 279 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:42 +0000 | Logical Clock 280 
+Logging event: Internal | System Time Sat, 03 Mar 2018 03:30:43 +0000 | Logical Clock 281 
+Logging event: Send to Machine 0 | System Time Sat, 03 Mar 2018 03:30:43 +0000 | Logical Clock 282 
+Logging event: Send to Both Machines | System Time Sat, 03 Mar 2018 03:30:43 +0000 | Logical Clock 283 
