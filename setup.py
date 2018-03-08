@@ -1,4 +1,4 @@
-from time import gmtime, strftime, sleep, time
+from time import strftime, sleep, time
 from threading import Timer
 import random
 
@@ -97,7 +97,7 @@ if __name__== "__main__":
 	try:
 		# Run for 1 minute
 		sleep(60)
-		
+
 	finally:
 		# Stop them from running
 		machines[0].stop()
