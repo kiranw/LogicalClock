@@ -92,7 +92,12 @@ if __name__== "__main__":
 	trial = 0
 	for speeds in all_speeds:
 		for probs in all_probs:
-			os.mkdir("trial%d"%trial)
+			try:
+				os.mkdir("trial%d"%trial)
+			except OSError:
+				# Folder already exists, no problem
+				pass
+
 			print("Starting to create machines")
 			print("Speeds: " + str(speeds))
 			print("Probs: " + str(probs))
