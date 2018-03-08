@@ -16,57 +16,36 @@ class Process:
 		self.on = True
 		print("Machine %d initialized with %d operations per second" % (id, speed))
 
-	# THIS NEEDS TO BE DEBUGGED
-	# Originally, I just had the last line and instead of self.start it was calling self.handle_operation, but it wouldnt repeat the function so I dumped it in here and made it recursive
 	def start(self):
 		if self.on:
-			# Every 1/speed seconds, call handle_operation
-			if len(self.message_queue) == 0:
-				opcode = random.randint(1,7)
-				# Send to to one machine
-				if opcode == 1:
-					target_id = (self.id + 1) % 3
-					self.send_single_message(target_id)
-				# Send to the other machine
-				elif opcode == 2:
-					target_id = (self.id - 1) % 3
-					self.send_single_message(target_id)
-				# Send to both machines
-				elif opcode == 3:
-					target_1 = (self.id + 1) % 3
-					target_2 = (self.id - 1) % 3
-					self.send_multiple_messages(target_1, target_2)
-				# Internal event, update local clock
-				else:
-					self.internal_event()
-			else:
-				message = self.message_queue.pop(0)
-				self.receive(message)
-			self.timer = Timer(1.0/self.speed, self.start).start()
+			self.timer = Timer(1.0/self.speed, self.handle_operation).start()
 
 	# at a regular interval, generate a random number and execute
-	# def handle_operation(self):	
-	# 	if len(self.message_queue) == 0:
-	# 		opcode = random.randint(1,7)
-	# 		# Send to to one machine
-	# 		if opcode == 1:
-	# 			target_id = (self.id + 1) % 3
-	# 			self.send_single_message(target_id)
-	# 		# Send to the other machine
-	# 		elif opcode == 2:
-	# 			target_id = (self.id - 1) % 3
-	# 			self.send_single_message(target_id)
-	# 		# Send to both machines
-	# 		elif opcode == 3:
-	# 			target_1 = (self.id + 1) % 3
-	# 			target_2 = (self.id - 1) % 3
-	# 			self.send_multiple_messages(target_1, target_2)
-	# 		# Internal event, update local clock
-	# 		else:
-	# 			self.internal_event()
-	# 	else:
-	# 		message = self.message_queue.pop(0)
-	# 		self.receive(message)
+	def handle_operation(self):
+		if len(self.message_queue) == 0:
+			opcode = random.randint(1,7)
+			# Send to to one machine
+			if opcode == 1:
+				target_id = (self.id + 1) % 3
+				self.send_single_message(target_id)
+			# Send to the other machine
+			elif opcode == 2:
+				target_id = (self.id - 1) % 3
+				self.send_single_message(target_id)
+			# Send to both machines
+			elif opcode == 3:
+				target_1 = (self.id + 1) % 3
+				target_2 = (self.id - 1) % 3
+				self.send_multiple_messages(target_1, target_2)
+			# Internal event, update local clock
+			else:
+				self.internal_event()
+		else:
+			message = self.message_queue.pop(0)
+			self.receive(message)
+
+		# Restart timer
+		self.timer = Timer(1.0/self.speed, self.handle_operation).start()
 
 	# Append a message to queue to buffer a received message
 	def append_to_message_queue(self, message):
