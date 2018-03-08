@@ -13,7 +13,7 @@ def get_time( s, first, last ):
     except ValueError:
         return ""
 
-
+# Parse log files and generate plots; plots are .png and titled based on speed and operation configurations
 def plot_clocks(trial,speeds,probs):
     speeds = [str(i) for i in speeds]
     probs = [str(i) for i in probs]
