@@ -1,5 +1,6 @@
 from time import strftime, sleep, time
 from threading import Timer
+from Queue import Queue
 import random
 
 # Each process communicates with other processes, and maintains its own logical clock
@@ -11,18 +12,19 @@ class Process:
 		self.speed = speed
 		self.id = id
 		self.log_file = open(log_file_path, 'w')
-		self.message_queue = []
+		self.message_queue = Queue()
 		self.timer = None
 		self.on = True
 		print("Machine %d initialized with %d operations per second" % (id, speed))
 
+	# Spawns timer function which runs in separate thread.
 	def start(self):
 		if self.on:
 			self.timer = Timer(1.0/self.speed, self.handle_operation).start()
 
 	# at a regular interval, generate a random number and execute
 	def handle_operation(self):
-		if len(self.message_queue) == 0:
+		if self.message_queue.qsize() == 0:
 			opcode = random.randint(1,7)
 			# Send to to one machine
 			if opcode == 1:
@@ -41,15 +43,16 @@ class Process:
 			else:
 				self.internal_event()
 		else:
-			message = self.message_queue.pop(0)
+			message = self.message_queue.get()
 			self.receive(message)
 
-		# Restart timer
-		self.timer = Timer(1.0/self.speed, self.handle_operation).start()
+		# Reset timer if we're still going
+		if self.on:
+			self.timer = Timer(1.0/self.speed, self.handle_operation).start()
 
 	# Append a message to queue to buffer a received message
 	def append_to_message_queue(self, message):
-		self.message_queue.append(message)
+		self.message_queue.put(message)
 
 	# send a message to a single other machine
 	def send_single_message(self, target):
