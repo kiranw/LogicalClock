@@ -24,7 +24,7 @@ class Process:
 	# at a regular interval, generate a random number and execute
 	def handle_operation(self):
 		if self.message_queue.qsize() == 0:
-			opcode = random.randint(1,7)
+			opcode = random.randint(1, 10)
 			# Send to to one machine
 			if opcode == 1:
 				target_id = (self.id + 1) % 3
