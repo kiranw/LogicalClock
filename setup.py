@@ -14,13 +14,12 @@ class Process:
 		self.log_file = open(log_file_path, 'w')
 		self.message_queue = Queue()
 		self.timer = None
-		self.on = True
 		print("Machine %d initialized with %d operations per second" % (id, speed))
 
 	# Spawns timer function which runs in separate thread.
 	def start(self):
-		if self.on:
-			self.timer = Timer(1.0/self.speed, self.handle_operation).start()
+		self.timer = Timer(1.0/self.speed, self.handle_operation)
+		self.timer.start()
 
 	# at a regular interval, generate a random number and execute
 	def handle_operation(self):
@@ -46,9 +45,8 @@ class Process:
 			message = self.message_queue.get()
 			self.receive(message)
 
-		# Reset timer if we're still going
-		if self.on:
-			self.timer = Timer(1.0/self.speed, self.handle_operation).start()
+		self.timer = Timer(1.0/self.speed, self.handle_operation)
+		self.timer.start()
 
 	# Append a message to queue to buffer a received message
 	def append_to_message_queue(self, message):
@@ -83,7 +81,8 @@ class Process:
 		self.log_file.write("Logging event: %s | System Time %s | Logical Clock %d \n" % (event, time(), self.logical_clock))
 
 	def stop(self):
-		self.on = False
+		if self.timer is not None:
+			self.timer.cancel()
 
 
 if __name__== "__main__":
