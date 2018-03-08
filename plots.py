@@ -27,7 +27,7 @@ def plot_clocks(trial,speeds,probs):
             data = [(get_time(line,"System Time","|"), int(line.split("Logical Clock")[1].strip())) for line in content]
             times = [packet[0] for packet in data]
             clocks = [packet[1] for packet in data]
-            pt.step(times,clocks, label="Speed (%s) Prob (%s)" % (speeds[i], probs[i]))
+            pt.step(times,clocks, label="Speed (%s)" % (speeds[i]))
         pt.grid(True)
         pt.xlabel('time (s)')
         pt.ylabel('Logical Clock Value')
