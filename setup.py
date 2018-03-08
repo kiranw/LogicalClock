@@ -54,15 +54,15 @@ class Process:
 
 	# send a message to a single other machine
 	def send_single_message(self, target):
-		self.logical_clock += 1
 		machines[target].append_to_message_queue(self.logical_clock)
+		self.logical_clock += 1
 		self.log_event("Send to Machine %d" % target)
 
 	# Send a message to both other processes
 	def send_multiple_messages(self, target_1, target_2):
-		self.logical_clock += 1
 		machines[target_1].append_to_message_queue(self.logical_clock)
 		machines[target_2].append_to_message_queue(self.logical_clock)
+		self.logical_clock += 1
 		self.log_event("Send to Both Machines")
 
 	# Increment the logical clock and log the event
