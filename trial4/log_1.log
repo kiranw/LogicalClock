@@ -1,0 +1,296 @@
+Logging event: Receive | System Time 1520474842.597899 | Logical Clock 2 
+Logging event: Send to Both Machines | System Time 1520474842.8033988 | Logical Clock 3 
+Logging event: Send to Machine 2 | System Time 1520474843.0059462 | Logical Clock 4 
+Logging event: Send to Machine 0 | System Time 1520474843.2077482 | Logical Clock 5 
+Logging event: Send to Machine 2 | System Time 1520474843.410798 | Logical Clock 6 
+Logging event: Send to Machine 2 | System Time 1520474843.611371 | Logical Clock 7 
+Logging event: Send to Machine 0 | System Time 1520474843.813046 | Logical Clock 8 
+Logging event: Receive | System Time 1520474844.019021 | Logical Clock 11 
+Logging event: Receive | System Time 1520474844.219788 | Logical Clock 12 
+Logging event: Receive | System Time 1520474844.420125 | Logical Clock 13 
+Logging event: Receive | System Time 1520474844.620916 | Logical Clock 14 
+Logging event: Internal | System Time 1520474844.826965 | Logical Clock 15 
+Logging event: Receive | System Time 1520474845.0277271 | Logical Clock 17 
+Logging event: Internal | System Time 1520474845.228039 | Logical Clock 18 
+Logging event: Send to Machine 2 | System Time 1520474845.4334972 | Logical Clock 19 
+Logging event: Internal | System Time 1520474845.637504 | Logical Clock 20 
+Logging event: Receive | System Time 1520474845.842935 | Logical Clock 22 
+Logging event: Receive | System Time 1520474846.043496 | Logical Clock 23 
+Logging event: Receive | System Time 1520474846.24705 | Logical Clock 24 
+Logging event: Receive | System Time 1520474846.450169 | Logical Clock 25 
+Logging event: Receive | System Time 1520474846.651986 | Logical Clock 27 
+Logging event: Send to Both Machines | System Time 1520474846.856063 | Logical Clock 28 
+Logging event: Internal | System Time 1520474847.059208 | Logical Clock 29 
+Logging event: Send to Machine 2 | System Time 1520474847.263781 | Logical Clock 30 
+Logging event: Send to Both Machines | System Time 1520474847.464139 | Logical Clock 31 
+Logging event: Internal | System Time 1520474847.6666722 | Logical Clock 32 
+Logging event: Receive | System Time 1520474847.868428 | Logical Clock 35 
+Logging event: Send to Both Machines | System Time 1520474848.070412 | Logical Clock 36 
+Logging event: Send to Both Machines | System Time 1520474848.272597 | Logical Clock 37 
+Logging event: Internal | System Time 1520474848.475828 | Logical Clock 38 
+Logging event: Send to Machine 0 | System Time 1520474848.681511 | Logical Clock 39 
+Logging event: Send to Both Machines | System Time 1520474848.882303 | Logical Clock 40 
+Logging event: Internal | System Time 1520474849.083627 | Logical Clock 41 
+Logging event: Receive | System Time 1520474849.287401 | Logical Clock 44 
+Logging event: Send to Machine 0 | System Time 1520474849.488221 | Logical Clock 45 
+Logging event: Internal | System Time 1520474849.690654 | Logical Clock 46 
+Logging event: Receive | System Time 1520474849.890927 | Logical Clock 47 
+Logging event: Receive | System Time 1520474850.0914292 | Logical Clock 48 
+Logging event: Receive | System Time 1520474850.296993 | Logical Clock 50 
+Logging event: Receive | System Time 1520474850.50058 | Logical Clock 51 
+Logging event: Send to Both Machines | System Time 1520474850.7030458 | Logical Clock 52 
+Logging event: Send to Machine 2 | System Time 1520474850.904421 | Logical Clock 53 
+Logging event: Send to Machine 0 | System Time 1520474851.104949 | Logical Clock 54 
+Logging event: Send to Both Machines | System Time 1520474851.310665 | Logical Clock 55 
+Logging event: Send to Both Machines | System Time 1520474851.512917 | Logical Clock 56 
+Logging event: Send to Both Machines | System Time 1520474851.715322 | Logical Clock 57 
+Logging event: Send to Both Machines | System Time 1520474851.919155 | Logical Clock 58 
+Logging event: Send to Both Machines | System Time 1520474852.120178 | Logical Clock 59 
+Logging event: Send to Both Machines | System Time 1520474852.3218062 | Logical Clock 60 
+Logging event: Send to Both Machines | System Time 1520474852.5231519 | Logical Clock 61 
+Logging event: Send to Machine 0 | System Time 1520474852.7254488 | Logical Clock 62 
+Logging event: Send to Machine 2 | System Time 1520474852.929089 | Logical Clock 63 
+Logging event: Send to Both Machines | System Time 1520474853.132656 | Logical Clock 64 
+Logging event: Send to Machine 2 | System Time 1520474853.3408582 | Logical Clock 65 
+Logging event: Internal | System Time 1520474853.546334 | Logical Clock 66 
+Logging event: Send to Both Machines | System Time 1520474853.7469802 | Logical Clock 67 
+Logging event: Internal | System Time 1520474853.949692 | Logical Clock 68 
+Logging event: Receive | System Time 1520474854.153907 | Logical Clock 73 
+Logging event: Receive | System Time 1520474854.355207 | Logical Clock 74 
+Logging event: Receive | System Time 1520474854.556349 | Logical Clock 76 
+Logging event: Receive | System Time 1520474854.761912 | Logical Clock 77 
+Logging event: Receive | System Time 1520474854.962711 | Logical Clock 78 
+Logging event: Receive | System Time 1520474855.16621 | Logical Clock 79 
+Logging event: Send to Machine 2 | System Time 1520474855.36722 | Logical Clock 80 
+Logging event: Send to Machine 2 | System Time 1520474855.568681 | Logical Clock 81 
+Logging event: Internal | System Time 1520474855.77331 | Logical Clock 82 
+Logging event: Send to Both Machines | System Time 1520474855.975822 | Logical Clock 83 
+Logging event: Receive | System Time 1520474856.176655 | Logical Clock 86 
+Logging event: Send to Both Machines | System Time 1520474856.379897 | Logical Clock 87 
+Logging event: Internal | System Time 1520474856.5814242 | Logical Clock 88 
+Logging event: Internal | System Time 1520474856.784042 | Logical Clock 89 
+Logging event: Receive | System Time 1520474856.986337 | Logical Clock 91 
+Logging event: Receive | System Time 1520474857.1883562 | Logical Clock 93 
+Logging event: Receive | System Time 1520474857.38914 | Logical Clock 94 
+Logging event: Receive | System Time 1520474857.592905 | Logical Clock 95 
+Logging event: Receive | System Time 1520474857.793451 | Logical Clock 96 
+Logging event: Receive | System Time 1520474857.999051 | Logical Clock 97 
+Logging event: Receive | System Time 1520474858.200922 | Logical Clock 98 
+Logging event: Receive | System Time 1520474858.401685 | Logical Clock 100 
+Logging event: Receive | System Time 1520474858.602371 | Logical Clock 101 
+Logging event: Receive | System Time 1520474858.807946 | Logical Clock 102 
+Logging event: Internal | System Time 1520474859.013584 | Logical Clock 103 
+Logging event: Receive | System Time 1520474859.219156 | Logical Clock 104 
+Logging event: Receive | System Time 1520474859.4249542 | Logical Clock 105 
+Logging event: Receive | System Time 1520474859.625546 | Logical Clock 107 
+Logging event: Receive | System Time 1520474859.831168 | Logical Clock 108 
+Logging event: Send to Both Machines | System Time 1520474860.0361679 | Logical Clock 109 
+Logging event: Send to Both Machines | System Time 1520474860.237329 | Logical Clock 110 
+Logging event: Receive | System Time 1520474860.438335 | Logical Clock 113 
+Logging event: Receive | System Time 1520474860.640161 | Logical Clock 114 
+Logging event: Send to Both Machines | System Time 1520474860.845807 | Logical Clock 115 
+Logging event: Send to Machine 0 | System Time 1520474861.046752 | Logical Clock 116 
+Logging event: Receive | System Time 1520474861.248758 | Logical Clock 118 
+Logging event: Receive | System Time 1520474861.449994 | Logical Clock 120 
+Logging event: Send to Both Machines | System Time 1520474861.653854 | Logical Clock 121 
+Logging event: Send to Both Machines | System Time 1520474861.859414 | Logical Clock 122 
+Logging event: Send to Machine 0 | System Time 1520474862.062606 | Logical Clock 123 
+Logging event: Send to Both Machines | System Time 1520474862.2683048 | Logical Clock 124 
+Logging event: Receive | System Time 1520474862.474211 | Logical Clock 127 
+Logging event: Receive | System Time 1520474862.676846 | Logical Clock 128 
+Logging event: Internal | System Time 1520474862.8819351 | Logical Clock 129 
+Logging event: Send to Machine 2 | System Time 1520474863.0874681 | Logical Clock 130 
+Logging event: Send to Both Machines | System Time 1520474863.288007 | Logical Clock 131 
+Logging event: Send to Machine 2 | System Time 1520474863.4932868 | Logical Clock 132 
+Logging event: Send to Both Machines | System Time 1520474863.6988149 | Logical Clock 133 
+Logging event: Send to Machine 2 | System Time 1520474863.902665 | Logical Clock 134 
+Logging event: Internal | System Time 1520474864.105645 | Logical Clock 135 
+Logging event: Receive | System Time 1520474864.307931 | Logical Clock 138 
+Logging event: Receive | System Time 1520474864.5116642 | Logical Clock 139 
+Logging event: Send to Both Machines | System Time 1520474864.7163389 | Logical Clock 140 
+Logging event: Send to Machine 2 | System Time 1520474864.916938 | Logical Clock 141 
+Logging event: Send to Machine 0 | System Time 1520474865.122859 | Logical Clock 142 
+Logging event: Send to Both Machines | System Time 1520474865.328747 | Logical Clock 143 
+Logging event: Send to Both Machines | System Time 1520474865.534726 | Logical Clock 144 
+Logging event: Receive | System Time 1520474865.735799 | Logical Clock 147 
+Logging event: Receive | System Time 1520474865.937554 | Logical Clock 148 
+Logging event: Receive | System Time 1520474866.143234 | Logical Clock 149 
+Logging event: Receive | System Time 1520474866.34427 | Logical Clock 150 
+Logging event: Internal | System Time 1520474866.55031 | Logical Clock 151 
+Logging event: Receive | System Time 1520474866.7559302 | Logical Clock 152 
+Logging event: Receive | System Time 1520474866.961629 | Logical Clock 153 
+Logging event: Receive | System Time 1520474867.1644878 | Logical Clock 155 
+Logging event: Receive | System Time 1520474867.3657 | Logical Clock 156 
+Logging event: Send to Both Machines | System Time 1520474867.571307 | Logical Clock 157 
+Logging event: Receive | System Time 1520474867.776064 | Logical Clock 160 
+Logging event: Receive | System Time 1520474867.976613 | Logical Clock 161 
+Logging event: Receive | System Time 1520474868.181849 | Logical Clock 162 
+Logging event: Receive | System Time 1520474868.38589 | Logical Clock 163 
+Logging event: Receive | System Time 1520474868.588237 | Logical Clock 164 
+Logging event: Internal | System Time 1520474868.7938921 | Logical Clock 165 
+Logging event: Receive | System Time 1520474868.9997828 | Logical Clock 167 
+Logging event: Receive | System Time 1520474869.2056909 | Logical Clock 168 
+Logging event: Receive | System Time 1520474869.411593 | Logical Clock 169 
+Logging event: Receive | System Time 1520474869.615948 | Logical Clock 170 
+Logging event: Receive | System Time 1520474869.816652 | Logical Clock 171 
+Logging event: Receive | System Time 1520474870.022123 | Logical Clock 172 
+Logging event: Receive | System Time 1520474870.225661 | Logical Clock 174 
+Logging event: Receive | System Time 1520474870.431733 | Logical Clock 175 
+Logging event: Send to Both Machines | System Time 1520474870.637455 | Logical Clock 176 
+Logging event: Send to Machine 2 | System Time 1520474870.843107 | Logical Clock 177 
+Logging event: Receive | System Time 1520474871.044329 | Logical Clock 180 
+Logging event: Receive | System Time 1520474871.248287 | Logical Clock 181 
+Logging event: Send to Machine 0 | System Time 1520474871.452557 | Logical Clock 182 
+Logging event: Receive | System Time 1520474871.658449 | Logical Clock 183 
+Logging event: Receive | System Time 1520474871.864458 | Logical Clock 184 
+Logging event: Receive | System Time 1520474872.065708 | Logical Clock 186 
+Logging event: Internal | System Time 1520474872.271007 | Logical Clock 187 
+Logging event: Internal | System Time 1520474872.476759 | Logical Clock 188 
+Logging event: Receive | System Time 1520474872.682745 | Logical Clock 189 
+Logging event: Receive | System Time 1520474872.886519 | Logical Clock 190 
+Logging event: Send to Machine 0 | System Time 1520474873.09283 | Logical Clock 191 
+Logging event: Send to Machine 0 | System Time 1520474873.294934 | Logical Clock 192 
+Logging event: Internal | System Time 1520474873.50052 | Logical Clock 193 
+Logging event: Receive | System Time 1520474873.7063942 | Logical Clock 195 
+Logging event: Send to Both Machines | System Time 1520474873.91233 | Logical Clock 196 
+Logging event: Send to Machine 0 | System Time 1520474874.116328 | Logical Clock 197 
+Logging event: Receive | System Time 1520474874.3206558 | Logical Clock 200 
+Logging event: Receive | System Time 1520474874.525125 | Logical Clock 201 
+Logging event: Receive | System Time 1520474874.7285068 | Logical Clock 202 
+Logging event: Receive | System Time 1520474874.934402 | Logical Clock 203 
+Logging event: Receive | System Time 1520474875.1399832 | Logical Clock 204 
+Logging event: Receive | System Time 1520474875.3444648 | Logical Clock 205 
+Logging event: Receive | System Time 1520474875.5473568 | Logical Clock 206 
+Logging event: Receive | System Time 1520474875.749384 | Logical Clock 207 
+Logging event: Receive | System Time 1520474875.951724 | Logical Clock 208 
+Logging event: Receive | System Time 1520474876.152998 | Logical Clock 209 
+Logging event: Receive | System Time 1520474876.355694 | Logical Clock 211 
+Logging event: Receive | System Time 1520474876.558665 | Logical Clock 212 
+Logging event: Receive | System Time 1520474876.7608168 | Logical Clock 213 
+Logging event: Receive | System Time 1520474876.962773 | Logical Clock 214 
+Logging event: Receive | System Time 1520474877.1680472 | Logical Clock 216 
+Logging event: Receive | System Time 1520474877.3701608 | Logical Clock 218 
+Logging event: Receive | System Time 1520474877.575126 | Logical Clock 219 
+Logging event: Receive | System Time 1520474877.775632 | Logical Clock 220 
+Logging event: Receive | System Time 1520474877.9812748 | Logical Clock 221 
+Logging event: Receive | System Time 1520474878.182772 | Logical Clock 223 
+Logging event: Receive | System Time 1520474878.3876128 | Logical Clock 224 
+Logging event: Receive | System Time 1520474878.591865 | Logical Clock 225 
+Logging event: Internal | System Time 1520474878.794848 | Logical Clock 226 
+Logging event: Receive | System Time 1520474879.000316 | Logical Clock 227 
+Logging event: Receive | System Time 1520474879.2020879 | Logical Clock 228 
+Logging event: Receive | System Time 1520474879.404076 | Logical Clock 229 
+Logging event: Receive | System Time 1520474879.6061041 | Logical Clock 231 
+Logging event: Send to Both Machines | System Time 1520474879.811766 | Logical Clock 232 
+Logging event: Internal | System Time 1520474880.015608 | Logical Clock 233 
+Logging event: Receive | System Time 1520474880.221218 | Logical Clock 235 
+Logging event: Receive | System Time 1520474880.4220731 | Logical Clock 236 
+Logging event: Receive | System Time 1520474880.622486 | Logical Clock 237 
+Logging event: Receive | System Time 1520474880.8260229 | Logical Clock 238 
+Logging event: Receive | System Time 1520474881.026984 | Logical Clock 239 
+Logging event: Send to Machine 2 | System Time 1520474881.229407 | Logical Clock 240 
+Logging event: Send to Both Machines | System Time 1520474881.431911 | Logical Clock 241 
+Logging event: Send to Machine 2 | System Time 1520474881.635435 | Logical Clock 242 
+Logging event: Send to Machine 0 | System Time 1520474881.836975 | Logical Clock 243 
+Logging event: Receive | System Time 1520474882.0406258 | Logical Clock 246 
+Logging event: Receive | System Time 1520474882.241867 | Logical Clock 247 
+Logging event: Receive | System Time 1520474882.442215 | Logical Clock 248 
+Logging event: Receive | System Time 1520474882.642775 | Logical Clock 249 
+Logging event: Receive | System Time 1520474882.846239 | Logical Clock 250 
+Logging event: Receive | System Time 1520474883.047511 | Logical Clock 252 
+Logging event: Receive | System Time 1520474883.248215 | Logical Clock 253 
+Logging event: Receive | System Time 1520474883.4494479 | Logical Clock 254 
+Logging event: Receive | System Time 1520474883.654315 | Logical Clock 255 
+Logging event: Receive | System Time 1520474883.8552692 | Logical Clock 256 
+Logging event: Receive | System Time 1520474884.0556648 | Logical Clock 258 
+Logging event: Internal | System Time 1520474884.256605 | Logical Clock 259 
+Logging event: Receive | System Time 1520474884.461544 | Logical Clock 261 
+Logging event: Receive | System Time 1520474884.665913 | Logical Clock 262 
+Logging event: Receive | System Time 1520474884.8705091 | Logical Clock 263 
+Logging event: Internal | System Time 1520474885.071918 | Logical Clock 264 
+Logging event: Receive | System Time 1520474885.273458 | Logical Clock 265 
+Logging event: Receive | System Time 1520474885.4791129 | Logical Clock 266 
+Logging event: Receive | System Time 1520474885.680468 | Logical Clock 267 
+Logging event: Receive | System Time 1520474885.883383 | Logical Clock 268 
+Logging event: Receive | System Time 1520474886.088991 | Logical Clock 269 
+Logging event: Receive | System Time 1520474886.294535 | Logical Clock 270 
+Logging event: Receive | System Time 1520474886.4960158 | Logical Clock 271 
+Logging event: Receive | System Time 1520474886.7005382 | Logical Clock 272 
+Logging event: Receive | System Time 1520474886.902304 | Logical Clock 273 
+Logging event: Receive | System Time 1520474887.108191 | Logical Clock 274 
+Logging event: Receive | System Time 1520474887.309195 | Logical Clock 275 
+Logging event: Receive | System Time 1520474887.510004 | Logical Clock 276 
+Logging event: Receive | System Time 1520474887.710579 | Logical Clock 278 
+Logging event: Receive | System Time 1520474887.9157372 | Logical Clock 280 
+Logging event: Receive | System Time 1520474888.116715 | Logical Clock 282 
+Logging event: Receive | System Time 1520474888.320276 | Logical Clock 283 
+Logging event: Internal | System Time 1520474888.524607 | Logical Clock 284 
+Logging event: Receive | System Time 1520474888.7263172 | Logical Clock 285 
+Logging event: Receive | System Time 1520474888.9268942 | Logical Clock 286 
+Logging event: Receive | System Time 1520474889.128234 | Logical Clock 287 
+Logging event: Receive | System Time 1520474889.333722 | Logical Clock 288 
+Logging event: Internal | System Time 1520474889.5393238 | Logical Clock 289 
+Logging event: Receive | System Time 1520474889.739599 | Logical Clock 291 
+Logging event: Receive | System Time 1520474889.943143 | Logical Clock 292 
+Logging event: Receive | System Time 1520474890.146352 | Logical Clock 293 
+Logging event: Receive | System Time 1520474890.3520582 | Logical Clock 295 
+Logging event: Receive | System Time 1520474890.554764 | Logical Clock 296 
+Logging event: Receive | System Time 1520474890.757043 | Logical Clock 298 
+Logging event: Send to Both Machines | System Time 1520474890.9592571 | Logical Clock 299 
+Logging event: Internal | System Time 1520474891.1648178 | Logical Clock 300 
+Logging event: Internal | System Time 1520474891.370404 | Logical Clock 301 
+Logging event: Receive | System Time 1520474891.574261 | Logical Clock 303 
+Logging event: Receive | System Time 1520474891.780127 | Logical Clock 304 
+Logging event: Receive | System Time 1520474891.985756 | Logical Clock 305 
+Logging event: Send to Machine 0 | System Time 1520474892.187294 | Logical Clock 306 
+Logging event: Receive | System Time 1520474892.3894038 | Logical Clock 308 
+Logging event: Send to Machine 0 | System Time 1520474892.595121 | Logical Clock 309 
+Logging event: Receive | System Time 1520474892.800716 | Logical Clock 310 
+Logging event: Receive | System Time 1520474893.0040488 | Logical Clock 312 
+Logging event: Send to Both Machines | System Time 1520474893.206423 | Logical Clock 313 
+Logging event: Send to Both Machines | System Time 1520474893.407041 | Logical Clock 314 
+Logging event: Send to Both Machines | System Time 1520474893.61184 | Logical Clock 315 
+Logging event: Receive | System Time 1520474893.8140318 | Logical Clock 318 
+Logging event: Receive | System Time 1520474894.015697 | Logical Clock 319 
+Logging event: Receive | System Time 1520474894.2172842 | Logical Clock 320 
+Logging event: Receive | System Time 1520474894.419353 | Logical Clock 321 
+Logging event: Receive | System Time 1520474894.624959 | Logical Clock 322 
+Logging event: Receive | System Time 1520474894.8307168 | Logical Clock 324 
+Logging event: Receive | System Time 1520474895.0317729 | Logical Clock 325 
+Logging event: Receive | System Time 1520474895.237841 | Logical Clock 326 
+Logging event: Send to Both Machines | System Time 1520474895.443743 | Logical Clock 327 
+Logging event: Send to Both Machines | System Time 1520474895.6471648 | Logical Clock 328 
+Logging event: Send to Machine 2 | System Time 1520474895.849196 | Logical Clock 329 
+Logging event: Send to Both Machines | System Time 1520474896.0529568 | Logical Clock 330 
+Logging event: Send to Both Machines | System Time 1520474896.2535412 | Logical Clock 331 
+Logging event: Internal | System Time 1520474896.4593868 | Logical Clock 332 
+Logging event: Send to Machine 0 | System Time 1520474896.664043 | Logical Clock 333 
+Logging event: Internal | System Time 1520474896.86976 | Logical Clock 334 
+Logging event: Receive | System Time 1520474897.075378 | Logical Clock 337 
+Logging event: Receive | System Time 1520474897.2810712 | Logical Clock 339 
+Logging event: Receive | System Time 1520474897.4875169 | Logical Clock 340 
+Logging event: Receive | System Time 1520474897.693426 | Logical Clock 341 
+Logging event: Receive | System Time 1520474897.898921 | Logical Clock 343 
+Logging event: Receive | System Time 1520474898.100283 | Logical Clock 344 
+Logging event: Send to Both Machines | System Time 1520474898.303919 | Logical Clock 345 
+Logging event: Send to Both Machines | System Time 1520474898.507232 | Logical Clock 346 
+Logging event: Internal | System Time 1520474898.7132008 | Logical Clock 347 
+Logging event: Receive | System Time 1520474898.91907 | Logical Clock 349 
+Logging event: Receive | System Time 1520474899.1223922 | Logical Clock 351 
+Logging event: Receive | System Time 1520474899.328326 | Logical Clock 352 
+Logging event: Receive | System Time 1520474899.533788 | Logical Clock 353 
+Logging event: Send to Both Machines | System Time 1520474899.737808 | Logical Clock 354 
+Logging event: Send to Machine 2 | System Time 1520474899.938748 | Logical Clock 355 
+Logging event: Send to Machine 2 | System Time 1520474900.144408 | Logical Clock 356 
+Logging event: Internal | System Time 1520474900.3488379 | Logical Clock 357 
+Logging event: Receive | System Time 1520474900.550215 | Logical Clock 360 
+Logging event: Send to Both Machines | System Time 1520474900.755766 | Logical Clock 361 
+Logging event: Send to Both Machines | System Time 1520474900.960553 | Logical Clock 362 
+Logging event: Send to Machine 0 | System Time 1520474901.1645272 | Logical Clock 363 
+Logging event: Receive | System Time 1520474901.369897 | Logical Clock 366 
+Logging event: Send to Both Machines | System Time 1520474901.573266 | Logical Clock 367 
+Logging event: Send to Both Machines | System Time 1520474901.778847 | Logical Clock 368 
+Logging event: Internal | System Time 1520474901.983623 | Logical Clock 369 
+Logging event: Send to Both Machines | System Time 1520474902.184844 | Logical Clock 370 
+Logging event: Send to Both Machines | System Time 1520474902.385867 | Logical Clock 371 
+Logging event: Internal | System Time 1520474902.586602 | Logical Clock 372 
