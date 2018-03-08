@@ -88,9 +88,9 @@ class Process:
 if __name__== "__main__":
 	print("Starting to create machines")
 	machines = {}
-	machines[0] = Process(random.randint(1,7), 0, "log_0.log")
-	machines[1] = Process(random.randint(1,7), 1, "log_1.log")
-	machines[2] = Process(random.randint(1,7), 2, "log_2.log")
+	machines[0] = Process(random.randint(1,6), 0, "log_0.log")
+	machines[1] = Process(random.randint(1,6), 1, "log_1.log")
+	machines[2] = Process(random.randint(1,6), 2, "log_2.log")
 
 	machines[0].start()
 	machines[1].start()
